@@ -1,0 +1,6 @@
+{
+  "name": "NextIn",
+  "description": "NextIn: Real-Time Queue & Slot Booking Management System for Salons and Doctor Clinics with live queue tokens, dynamic wait times, and QR profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
